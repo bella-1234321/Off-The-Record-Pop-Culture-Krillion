@@ -1,0 +1,1006 @@
+{
+  "format": "deep-dive",
+  "version": 2,
+  "title": "Off The Record: Pop Culture Krillion",
+  "description": "Test your knowledge of music and pop culture!",
+  "seconds": 25,
+  "categories": [
+    {
+      "id": "plankton",
+      "name": "Flop",
+      "points": 10,
+      "color": "#afbdcb"
+    },
+    {
+      "id": "too-clever",
+      "name": "Eh",
+      "points": 15,
+      "color": "#ffb16b"
+    },
+    {
+      "id": "schooler",
+      "name": "Okkk",
+      "points": 30,
+      "color": "#79cfdf"
+    },
+    {
+      "id": "rare",
+      "name": "Ooo",
+      "points": 60,
+      "color": "#6af0bb"
+    },
+    {
+      "id": "deep-cut",
+      "name": "Entering niche territory...",
+      "points": 85,
+      "color": "#c49aff"
+    },
+    {
+      "id": "krillion",
+      "name": "THE NICHEST REFERENCE",
+      "points": 100,
+      "color": "#ff5896"
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Name a singer in the top 15 on the Billboard Hot 100",
+      "answers": [
+        {
+          "text": "Taylor Swift",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Ella Langley",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Stella Lefty",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Morgan Wallen",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Drake",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Don Toliver",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Tame Impala",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "JENNIE",
+          "category": "rare",
+          "aliases": [
+            "Jennie"
+          ]
+        },
+        {
+          "text": "Ariana Grande",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Olivia Rodrigo",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "ADÉLA",
+          "category": "deep-cut",
+          "aliases": [
+            "Adela"
+          ]
+        },
+        {
+          "text": "Karol G",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Bruno Mars",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Dominic Fike",
+          "category": "rare",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name an artist who has dropped new music within the past month",
+      "answers": [
+        {
+          "text": "Troye Sivan",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Tinashe",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Victoria Monét",
+          "category": "krillion",
+          "aliases": [
+            "Victoria Monet"
+          ]
+        },
+        {
+          "text": "Remi Wolf",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ashe",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "beabadoobee",
+          "category": "rare",
+          "aliases": [
+            "Beabadoobee"
+          ]
+        },
+        {
+          "text": "Fontaines D.C.",
+          "category": "krillion",
+          "aliases": [
+            "Fontaines DC"
+          ]
+        },
+        {
+          "text": "Blondshell",
+          "category": "krillion",
+          "aliases": [
+            "Blondeshell"
+          ]
+        },
+        {
+          "text": "Slayyyter",
+          "category": "deep-cut",
+          "aliases": [
+            "Slayter",
+            "Slater"
+          ]
+        },
+        {
+          "text": "Zach Bryan",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Quavo",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Drake",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Olivia Rodrigo",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Chappell Roan",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Miley Cyrus",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Carly Rae Jepson",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Gucci Mane",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Lucky Daye",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "A$AP Rocky",
+          "category": "rare",
+          "aliases": [
+            "Asap Rocky",
+            "ASAP Rocky"
+          ]
+        },
+        {
+          "text": "Miranda Lambert",
+          "category": "deep-cut",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a character from Gossip Girl (first name only)",
+      "answers": [
+        {
+          "text": "Serena",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Blair",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Dan",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Chuck",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Nate",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Jenny",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Vanessa",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Eric",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Lily",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Rufus",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Bart",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Eleanor",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Howard",
+          "category": "rare",
+          "aliases": [
+            "Nate's dad"
+          ]
+        },
+        {
+          "text": "Anne",
+          "category": "deep-cut",
+          "aliases": [
+            "Nate's mom"
+          ]
+        },
+        {
+          "text": "Celia",
+          "category": "deep-cut",
+          "aliases": [
+            "Cece"
+          ]
+        },
+        {
+          "text": "Cyrus",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Harold",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Dorota",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Georgina",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Carter",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Jack",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Juliet",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Damien",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Poppy",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Ivy",
+          "category": "rare",
+          "aliases": [
+            "Lola"
+          ]
+        },
+        {
+          "text": "Louis",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Olivia",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Scott",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Penelope",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Isabel",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Kati",
+          "category": "krillion",
+          "aliases": [
+            "Katie"
+          ]
+        },
+        {
+          "text": "Nelly",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Jonathan",
+          "category": "krillion",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a famous model",
+      "answers": [
+        {
+          "text": "Alex Consani",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Quen Blackwell",
+          "category": "deep-cut",
+          "aliases": [
+            "Quenlin Blackwell"
+          ]
+        },
+        {
+          "text": "Adriana Lima",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Gigi Hadid",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bella Hadid",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hailey Bieber",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Naomi Campbell",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Winnie Harlow",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Shalom Harlow",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Anok Yai",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Paloma Elsesser",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Ashley Graham",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Tyra Banks",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Precious Lee",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Heidi Klum",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Linda Evangelista",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Kate Moss",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Suki Waterhouse",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Cindy Crawford",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Liu Wen",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Kendall Jenner",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Cara Delevingne",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Kaia Gerber",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Karlie Kloss",
+          "category": "rare",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name an SNL host or musical guest from the past year",
+      "answers": [
+        {
+          "text": "Bad Bunny",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Amy Poehler",
+          "category": "deep-cut",
+          "aliases": [
+            "Amy Poler",
+            "Amy Pohler"
+          ]
+        },
+        {
+          "text": "Sabrina Carpenter",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Miles Teller",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Nikki Glaser",
+          "category": "deep-cut",
+          "aliases": [
+            "Nicki Glaser",
+            "Nicki Glazer",
+            "Nikki Glazer"
+          ]
+        },
+        {
+          "text": "Glen Powell",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Melissa McCarthy",
+          "category": "deep-cut",
+          "aliases": [
+            "Melissa Mcarthy",
+            "Melissa McArthy",
+            "Melissa Mccarthy"
+          ]
+        },
+        {
+          "text": "Josh O'Connor",
+          "category": "krillion",
+          "aliases": [
+            "Josh Oconnor",
+            "Josh OConnor",
+            "Josh Oconner",
+            "Josh OConner",
+            "Josh O'Conner"
+          ]
+        },
+        {
+          "text": "Ariana Grande",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Finn Wolfhard",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Teyana Taylor",
+          "category": "deep-cut",
+          "aliases": [
+            "Tiana Taylor"
+          ]
+        },
+        {
+          "text": "Alexander Skarsgård",
+          "category": "krillion",
+          "aliases": [
+            "Alexander Skarsgard"
+          ]
+        },
+        {
+          "text": "Connor Storrie",
+          "category": "deep-cut",
+          "aliases": [
+            "Connor Story"
+          ]
+        },
+        {
+          "text": "Ryan Gosling",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Harry Styles",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Jack Black",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Colman Domingo",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Olivia Rodrigo",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Matt Damon",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Will Ferrell",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Jalen Brunson",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dakota Johnson",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Shane Gillis",
+          "category": "krillion",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a television streaming service",
+      "answers": [
+        {
+          "text": "Netflix",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hulu",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Disney+",
+          "category": "plankton",
+          "aliases": [
+            "Disney Plus",
+            "Disney plus"
+          ]
+        },
+        {
+          "text": "Prime Video",
+          "category": "too-clever",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "text": "HBO Max",
+          "category": "schooler",
+          "aliases": [
+            "HBO",
+            "Max"
+          ]
+        },
+        {
+          "text": "Peacock",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Paramount+",
+          "category": "rare",
+          "aliases": [
+            "Paramount Plus",
+            "Paramount plus"
+          ]
+        },
+        {
+          "text": "Apple TV",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Youtube TV",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "ESPN",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Fubo",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Sling TV",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tubi",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Pluto TV",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Roku",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Crunchyroll",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Acorn TV",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Quibi",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Starz",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "FX",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Lookmovie2",
+          "category": "krillion",
+          "aliases": [
+            "Look Movie 2"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name an artist who has headlined Coachella",
+      "answers": [
+        {
+          "text": "Beyoncé",
+          "category": "too-clever",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Ariana Grande",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Billie Eilish",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "BLACKPINK",
+          "category": "schooler",
+          "aliases": [
+            "Blackpink"
+          ]
+        },
+        {
+          "text": "Bad Bunny",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Lana Del Rey",
+          "category": "too-clever",
+          "aliases": [
+            "Lana Del Ray"
+          ]
+        },
+        {
+          "text": "Tyler, the Creator",
+          "category": "schooler",
+          "aliases": [
+            "Tyler the creator",
+            "Tyler, the creator",
+            "Tyler the Creator"
+          ]
+        },
+        {
+          "text": "Tame Impala",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Childish Gambino",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Björk",
+          "category": "deep-cut",
+          "aliases": [
+            "Bjork"
+          ]
+        },
+        {
+          "text": "Frank Ocean",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Green Day",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "LCD Soundsystem",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Arcade Fire",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Paul McCartney",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "The Cure",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Nine Inch Nails",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Beck",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "OutKast",
+          "category": "krillion",
+          "aliases": [
+            "Outkast"
+          ]
+        },
+        {
+          "text": "Swedish House Mafia",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Jay-Z",
+          "category": "schooler",
+          "aliases": [
+            "Jay Z",
+            "JayZ",
+            "Jay z",
+            "Jayz",
+            "Jay-z"
+          ]
+        },
+        {
+          "text": "Doja Cat",
+          "category": "too-clever",
+          "aliases": []
+        },
+        {
+          "text": "Kendrick Lamar",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Post Malone",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Drake",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Radiohead",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Coldplay",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Prince",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Kanye West",
+          "category": "plankton",
+          "aliases": [
+            "Ye"
+          ]
+        },
+        {
+          "text": "Calvin Harris",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Rage Against the Machine",
+          "category": "deep-cut",
+          "aliases": []
+        }
+      ]
+    }
+  ]
+}
